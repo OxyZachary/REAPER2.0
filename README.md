@@ -2,10 +2,10 @@
 
 <h1 align="center"> REAPER-2.0  </h1>
 <p align="center">
-<a href="https://github.com/Simpleboy353/REAPER-2.0/blob/main/LICENSE.md"><img alt="GitHub License" src="https://img.shields.io/github/license/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
-<a href="https://github.com/Simpleboy353/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Simpleboy353/REAPER-2.0?style=for-the-badge"></a> 
-<a href="https://github.com/Simpleboy353/REAPER-2.0/network"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
-<a href="https://infinitybot.tk/support"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/swampplays0/REAPER2.0/blob/main/LICENSE.md"><img alt="GitHub License" src="https://img.shields.io/github/license/swampplays0/REAPER2.0?style=for-the-badge"></a>
+<a href="https://github.com/swampplays0/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Simpleboy353/REAPER-2.0?style=for-the-badge"></a> 
+<a href="https://github.com/swampplays0/REAPER2.0/network"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
+<a href="https://Reaper2-discordbot.tk/support"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 <h3 align="center">An Multi-purpose Discord bot with many features!</h3>
 
@@ -75,7 +75,7 @@
 
 </details>
 
-- **Keep checking the [Releases Section](https://github.com/Simpleboy353/REAPER-2.0/releases) to get the latest info relating new updates, bug fixes etc about the repository.**
+- **Keep checking the [Releases Section](https://github.com/swampplays0/REAPER2.0/releases) to get the latest info relating new updates, bug fixes etc about the repository.**
 - **The Information above includes Versions with only `Major Updates` and not Versions with `Bug fixes`**
 - **`v6.1.0-stable` is included in the List because this version includes the fixing of every error in the repository.**
 - **Support is provided only for `Stable` and `Beta` Versions and not for `Alpha` Versions.**
@@ -84,8 +84,8 @@
 
 ## Getting started
 #### Creating a fork:
-- 1). [Click here to fork the repository](https://github.com/Simpleboy353/REAPER-2.0)
-- 2). Open your terminal and type `git clone https://github.com/Simpleboy353/REAPER-2.0.git`
+- 1). [Click here to fork the repository](https://github.com/swampplays0/REAPER2.0)
+- 2). Open your terminal and type `git clone https://github.com/swampplays0/REAPER2.0.git`
 #### Installing all necessary packages
 - `npm install`
 #### Starting the bot
@@ -121,10 +121,9 @@
 ---
 
 ## Contributing
-- **Before contributing to this repo, make sure to read [CONTRIBUTIONS.md](https://github.com/Simpleboy353/REAPER-2.0/blob/master/CONTRIBUTIONS.md)**
-- **Join our [Support & Development Server](https://infinitybot.tk/support)**
-- **Join our [Community server](https://discord.gg/yMfyeNR2DT)**
-- **Invite my bot to your Server, [Here](https://infinitybot.tk/invite)**
+- **Before contributing to this repo, make sure to read [CONTRIBUTIONS.md](https://github.com/swampplays0/REAPER2.0/blob/master/CONTRIBUTIONS.md)**
+- **Join our [Support & Development Server](https://Reaper2-discordbot.tk/support)**
+- **Invite my bot to your Server, [Here](https://Reaper2-discordbot.tk/invite)**
 
 ---
 
